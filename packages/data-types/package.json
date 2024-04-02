@@ -1,0 +1,14 @@
+{
+    "name": "@lee-gyu/data-types",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "vitest",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "Lee Gyu Cheol <leegyu4dev@gmail.com>",
+    "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+    "extends": "../config/tsconfig.base.json",
+    "compilerOptions": {
+        "baseUrl": "./",
+        "allowJs": true
+    },
+    "include": [
+        "src/**/*",
+        "env.d.ts",
+        "__tests__/**/*"
+    ]
+}
